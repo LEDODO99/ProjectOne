@@ -1,0 +1,41 @@
+.rsContainer::before{
+    content: " ";
+    height: 2px;
+    display: block;
+    width: 60%;
+    margin: 20px auto;
+    border-bottom: 1px solid #00acec;
+}
+.rsContainer{
+    position: relative;
+    top:600px;
+}
+.Recun{
+    border-top-width: 1px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width:0px;
+}
+.Recun h2{
+    text-align: center;
+    color: #00acec;
+    font-size: 46px;
+    font-weight:800;
+    font-family: "Drugs";
+}
+.Recun div{
+    margin:10%;
+}
+.Recun div img{
+    width: 100%;
+    height: auto;
+}
+.Recun p{
+    text-align: center;
+    font-size: 24px;
+    line-height: 45px;
+    width: 70%;
+    margin: 0 auto;
+    max-width: 1100px;
+    color: #5f6263
+}

@@ -1,0 +1,26 @@
+.sentence{
+    position: relative;
+    top:700px;
+}
+.sentence h2{
+    font-family: "Drugs";
+    font-weight: 500;
+    color: #00acec;
+    font-size: 100px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    margin-top: 250px;
+    text-transform: uppercase;
+}
+.sentence p{
+    text-align: center;
+    font-size: 46px;
+    color: #00acec;
+    line-height: 76px;
+    width: 60%;
+    margin: 100px auto 200px;
+    font-weight: 600;
+    font-family: "Drugs";
+    text-transform: uppercase;
+}
